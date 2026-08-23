@@ -25,11 +25,15 @@ ${audience}
 Goal:
 ${goal}
 
-Improve this hook without changing its core idea or factual basis.
+Improve this hook without changing its core idea, position, meaning, or factual basis.
 
 Rules:
 - Keep the improved hook under 12 words.
 - Preserve the original meaning and factual basis.
+- Improve the wording, not the underlying claim.
+- Do NOT introduce a new idea.
+- Do NOT introduce a stronger, more negative, more positive, more alarming, or more controversial claim than the original.
+- Do NOT change the original position, conclusion, accusation, recommendation, or implication.
 - NEVER introduce a new statistic, percentage, number, date, result, claim, fact, guarantee, testimonial, or specific outcome that is not already present in the original hook or supplied context.
 - If the original hook contains a number or factual claim, you may keep or rephrase it, but do not increase, decrease, change, or invent it.
 - Do not turn an uncertain statement into a factual claim.
@@ -41,7 +45,14 @@ Rules:
 - Make the opening words strong enough to stop a scroll.
 - The improvement should be meaningfully better, not just different.
 - If the original hook is already strong, make only a light improvement rather than adding unsupported details.
-- The improved hook must remain understandable to the original target audience.
+- Keep the same basic audience intent and topic.
+- The improved hook should feel like a better version of the original hook, not a completely new hook.
+
+Before returning your answer, silently check:
+1. Did I preserve the original claim?
+2. Did I introduce any new fact, number, statistic, accusation, promise, or implication?
+3. Did I change the original position or meaning?
+4. If yes to any of these, rewrite the improved hook.
 
 Return ONLY valid JSON in exactly this format:
 
